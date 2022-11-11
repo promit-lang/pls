@@ -1,2 +1,2 @@
 # pls
-The repository for Promit Language Standard.
+The repository for Promit Language Specification.
